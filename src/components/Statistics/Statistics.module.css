@@ -1,0 +1,50 @@
+.numbers {
+    font-weight: 700;
+  }
+  
+  .good {
+    text-transform: capitalize;
+    margin: 0;
+    width: 200px;
+    padding: 16px;
+    display: block;
+    background-color: rgba(0, 128, 0, 25%);
+  }
+  
+  .neutral {
+    text-transform: capitalize;
+    margin: 0;
+    width: 200px;
+    padding: 16px;
+    display: block;
+    background-color: rgba(255, 228, 196, 60%);
+  }
+  
+  .bad {
+    text-transform: capitalize;
+    margin: 0;
+    width: 200px;
+    padding: 16px;
+    display: block;
+    background-color: rgba(255, 0, 0, 20%);
+  }
+
+  .total {
+    text-transform: capitalize;
+    margin: 0;
+    width: 200px;
+    padding: 16px;
+    display: block;
+    background-color:rgb(102, 125, 122);
+  }
+
+  .positivePercentage {
+
+    text-transform: capitalize;
+    margin: 0;
+    width: 200px;
+    padding: 16px;
+    display: block;
+    background-color: rgb(86, 213, 122);
+
+  }
